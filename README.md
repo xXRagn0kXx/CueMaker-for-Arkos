@@ -1,5 +1,6 @@
-# CueMaker_Linux.sh
- A simple graphical .sh file with a dual-language menu dialog to generate .cue files from a selected .bin file or an entire directory. Enjoy your games!
+# CueMaker for ArkOS
+
+A simple bash script with a graphical interface and menu available in two languages ​​to generate .cue files from .bin files by selecting one or the entire directory. Enjoy your downloaded games!
 
 ---
 
