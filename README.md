@@ -14,9 +14,9 @@ A simple bash script with a graphical interface and menu available in two langua
 ## :atom: Características
 * **Facil instalacion:** Tan solo bastaria copiar el script en el sistema
 * **Disponible en 2 idiomas:** Evita descargas repetidas de internet en varias máquinas.
-* **Para todos los formatos de consola** Todas las instalaciones y actualizaciones se realizan a la velocidad de la red local.
-* **Todos los formatos reconocidos** Proporciona una solución robusta para entornos con conectividad a internet limitada o nula.
-* **Generacion masiva por directorio** Puedes elegir qué arquitecturas y secciones reflejar para ahorrar espacio en disco.
+* **Para todos los formatos de consola:** Todas las instalaciones y actualizaciones se realizan a la velocidad de la red local.
+* **Todos los formatos CUE reconocidos:** Proporciona una solución robusta para entornos con conectividad a internet limitada o nula.
+* **Generacion masiva por directorio:** Puedes elegir qué arquitecturas y secciones reflejar para ahorrar espacio en disco.
 
 ---
 
