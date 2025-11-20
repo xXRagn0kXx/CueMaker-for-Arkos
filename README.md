@@ -32,5 +32,5 @@ A simple bash script with a graphical interface and menu available in two langua
 
 Puedes descargar los scripts directamente haciendo clic en los siguientes enlaces:
 
-* [**CueMaker.sh**](https://raw.githubusercontent.com/xXRagn0kXx/CueMaker-for-Arkos/main/Scripts/CueMaker_V1-2_EN.sh)
-* [**CueMaker-test.sh**](https://raw.githubusercontent.com/xXRagn0kXx/CueMaker-for-Arkos/main/Scripts/CueMaker_V1-2_ES.sh)
+* [**CueMaker_EN.sh**](https://raw.githubusercontent.com/xXRagn0kXx/CueMaker-for-Arkos/main/Scripts/CueMaker_V1-2_EN.sh)
+* [**CueMaker_ES.sh**](https://raw.githubusercontent.com/xXRagn0kXx/CueMaker-for-Arkos/main/Scripts/CueMaker_V1-2_ES.sh)
