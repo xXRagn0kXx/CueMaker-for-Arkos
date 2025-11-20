@@ -4,6 +4,6 @@ A simple bash script with a graphical interface and menu available in two langua
 
 ---
 
-![Portada de CueMaker](CueMaker.jpg)
+![Portada de CueMaker](Images/CueMaker.jpg)
 
 ---
