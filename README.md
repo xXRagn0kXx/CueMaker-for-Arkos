@@ -7,3 +7,8 @@ A simple bash script with a graphical interface and menu available in two langua
 ![Portada de CueMaker](Images/CueMaker.jpg)
 
 ---
+## :book: Contenido
+
+* :cop: [Terminos de uso](./LICENSE)
+* :atom: [Características](#atom-características)
+* :white_check_mark: [Requisitos](#white_check_mark-requisitos)
