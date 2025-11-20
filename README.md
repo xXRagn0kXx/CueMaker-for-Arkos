@@ -24,6 +24,6 @@ A simple bash script with a graphical interface and menu available in two langua
 
 * Usar Arkos o linux
 * Asignar permisos de ejecucion al script
-* Guardar script en /roms/tools (roms2 si tenemos una segunda SD)
+* Guardar script en /roms/tools/ (roms2 si tenemos una segunda SD)
 * Tener ficheros .bin validos que el script pueda asociar al CUE
 ----
