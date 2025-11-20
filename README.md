@@ -27,3 +27,10 @@ A simple bash script with a graphical interface and menu available in two langua
 * Guardar script en /roms/tools/ (roms2 si tenemos una segunda SD)
 * Tener ficheros .bin validos que el script pueda asociar al CUE
 ----
+
+## :arrow_down: Descargar Scripts
+
+Puedes descargar los scripts directamente haciendo clic en los siguientes enlaces:
+
+* [**CueMaker.sh**](https://raw.githubusercontent.com/xXRagn0kXx/CueMaker-for-Arkos/main/Scripts/CueMaker_V1-2_EN.sh)
+* [**CueMaker-test.sh**](https://raw.githubusercontent.com/xXRagn0kXx/CueMaker-for-Arkos/main/Scripts/CueMaker_V1-2_ES.sh)
