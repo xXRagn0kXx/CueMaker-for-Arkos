@@ -3,9 +3,7 @@
 A simple bash script with a graphical interface and menu available in two languages ​​to generate .cue files from .bin files by selecting one or the entire directory. Enjoy your downloaded games!
 
 ---
-
 ![Portada de CueMaker](Images/CueMaker.jpg)
-
 ---
 ## :book: Contenido
 
@@ -14,7 +12,7 @@ A simple bash script with a graphical interface and menu available in two langua
 * :white_check_mark: [Requisitos](#white_check_mark-requisitos)
 
 
-  ## :atom: Características
+## :atom: Características
 * **Facil instalacion:** Tan solo bastaria copiar el script en el sistema
 * **Disponible en 2 idiomas:** Evita descargas repetidas de internet en varias máquinas.
 * **Para todos los formatos de consola** Todas las instalaciones y actualizaciones se realizan a la velocidad de la red local.
